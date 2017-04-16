@@ -82,7 +82,6 @@ namespace BankManager
         private void frmContas_FormClosed(object sender, FormClosedEventArgs e)
         {
             Application.Exit();
-
         }
 
         private void btnSair_Click(object sender, EventArgs e)
